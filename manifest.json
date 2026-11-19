@@ -1,0 +1,10 @@
+{
+  "name": "客席スミ出し",
+  "short_name": "スミ出し",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b100e",
+  "theme_color": "#101815",
+  "lang": "ja",
+  "description": "コンサート客席施工のスミ出し寸法計算アプリ"
+}
